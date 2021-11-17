@@ -37,6 +37,7 @@ Resources:
           CachedMethods:
           - HEAD
           - GET
+          - OPTIONS
           ForwardedValues:
             QueryString: true
             Headers: []
